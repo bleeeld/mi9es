@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Jun 2025 05:30:01 at https://merin-1win-copy.vercel.app +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "uk, en, *" https://merin-1win-copy.vercel.app -O1 "E:\site\w" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:30:05	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://merin-1win-copy.vercel.app/static/css/61255.4f034e44e.css
+05:30:18	Warning: 	Retry after error -5 (Unable to get server's address: This is usually a temporary error during hostnam) at link https://mc.yandex.ru/metrika/tag.js (from https://merin-1win-copy.vercel.app/)
+05:30:18	Error: 	"Not Found" (404) at link https://www-1win-mines.vercel.app/static/media/background.73ba94b4bcc4f49240cc.png (from https://merin-1win-copy.vercel.app/static/css/main.4a7afb73.css)
+05:30:18	Error: 	"Not Found" (404) at link https://www-1win-mines.vercel.app/static/media/backgroundPhone.22ee95b37f8094fe25be.png (from https://merin-1win-copy.vercel.app/static/css/main.4a7afb73.css)
+05:30:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link https://mc.yandex.ru/metrika/tag.js (from https://merin-1win-copy.vercel.app/)
+05:30:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link https://mc.yandex.ru/metrika/tag.js (from https://merin-1win-copy.vercel.app/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 seconds : 48 links scanned, 42 files written (2957078 bytes overall) [1985825 bytes received at 116813 bytes/sec], 2044982 bytes transferred using HTTP compression in 21 files, ratio 50%, 1.0 requests per connection
+(3 errors, 3 warnings, 0 messages)
